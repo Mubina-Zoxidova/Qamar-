@@ -1,0 +1,256 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card1{
+    width: 100%;
+    height: 50px;
+    background-color: #FFE9D0;
+}
+.p{
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 26px;
+    display: inline-block;
+    font-family: "Grey Qo", cursive;
+}
+.heart{
+    display: inline-block;
+    color: white;
+    margin-left: 70px;
+}
+h6{
+    padding-left: 10px;
+    font-family: "Grey Qo", cursive;
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 26px;
+    display: inline-block;
+}
+.call{
+    display: inline-block;
+    color: white;
+}
+.div{
+    display: inline-block;
+    padding-left: 770px;
+}
+.paint{
+    display: inline-block;
+    color: white;
+    padding-left: 50px;
+}
+.card2{
+    display: inline-block;
+    padding-left: 50px;
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    margin-right: 800px;
+}
+.img{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+}
+input{
+    background-color: #FFE9D0;
+    display: inline-block;
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.card-wrapper {
+    background-color: #FFE9D0;
+}
+
+
+.card3{
+    width: 100%;
+    background-color:  #FFE9D0;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    left:0 ;
+}
+.pp{
+    display: inline-block;
+    color: black;
+    padding-left: 30px;
+}
+.ppp{
+    display: inline-block;
+    color: black;
+    padding-left: 300px;
+}
+.divv{
+    position: absolute;
+    left: 400px;
+    top: 35px;
+}
+.card6,.card7,.card8,.card9,.card10,.card11,.card12,.card13,.card14,.card15{
+    display: inline-block;
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 50px;
+    color: #FFB4B4;
+}
+
+.card9 {
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card9:hover {
+    transform: scale(1.1);
+}
+.card6 {
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card6:hover {
+    transform: scale(1.1);
+}
+.card7{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card7:hover {
+    transform: scale(1.1);
+}
+.card8{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card8:hover {
+    transform: scale(1.1);
+}
+.card10{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card10:hover {
+    transform: scale(1.1);
+}
+.card11{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card11:hover {
+    transform: scale(1.1);
+}
+.card12{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card12:hover {
+    transform: scale(1.1);
+}
+.card13{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card13:hover {
+    transform: scale(1.1);
+}
+.card14{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card14:hover {
+    transform: scale(1.1);
+}
+.card15{
+    /* background-color: #FF9292; */
+    transition: transform .3s linear;
+}
+
+.card15:hover {
+    transform: scale(1.1);
+}
+
+.xamza{
+    width: 250px;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.five{
+    font-weight: 500;
+    font-size: 24px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.six{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.btn{
+    color: #FFE9D0;
+    background-color:white ;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: fixed;
+    left: 90%;
+    top: 90%;
+    border: 1px solid #FF9292;
+}
+.love{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.seven{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.love:hover{
+   color: red;
+}
+
+.main-link {
+    position: relative;
+}
+
+.btnn{
+    width: 120px;
+    height: 30px;
+    background-color: #FF9292;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bten{
+    position: fixed;
+    top: 650px;
+    left: 1450px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #FF9292;
+    background-color: white;
+    color: #FF9292;
+    z-index: 2;
+}

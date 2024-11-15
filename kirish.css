@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+p{
+    font-weight: 700;
+    font-size: 56px;
+    color: #FFE9D0;
+}
+input{
+width: 250px;
+height: 30px;
+background-color:#FFE9D0 ;
+border: none;
+border-radius: 5px;
+}
+h6{
+    font-weight: 400;
+    font-size: 24px;
+}
+.h6{
+    padding-top: 70px;
+}
+.savat{
+    padding-top: 20px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color:#FFE9D0;
+    border: 3px solid  white;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    border-radius: 10px;
+   margin-top: 20px;
+}
